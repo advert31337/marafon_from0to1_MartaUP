@@ -4,8 +4,14 @@
 
 body {
     font-family: 'Source Sans Pro', sans-serif;
+    font-size: 15px;
+    line-height: 24px;
 }
 
+a {
+    text-decoration: none;
+    color: inherit;
+}
 .header {
     background-image: url('../images/header-bg.jpg');
     min-height: 793px;
@@ -38,5 +44,30 @@ body {
 }
 
 .login {
-    padding-right: 44px;
+    margin-right: 44px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.menu__list a{
+    opacity: 0.5;
+    color: #fff;
+    font-weight: 600;
+    text-transform: uppercase;
+    transition: all 0.5s;
+}
+
+.menu__list a:hover {
+    opacity: 1;
+}
+
+.sign-up {
+    text-transform: uppercase;
+    color: #250f8a;
+    font-weight: 600;
+    background-color: #fff;
+    padding: 8px 43px;
+    border-radius: 20px;
+
 }
