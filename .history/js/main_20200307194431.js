@@ -5,6 +5,6 @@ $(function(){
         dots: true,
         dotsClass: 'header-dots',
         autoplay: 2000,
-        
+        fade: true,
     })
 })

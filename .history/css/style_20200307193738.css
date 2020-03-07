@@ -127,8 +127,6 @@ a {
     border-radius: 3.5px;
     cursor: pointer;
     outline: none;
-    margin: 10px auto;
-    display: block;
 }
 
 .header-dots .slick-active button{

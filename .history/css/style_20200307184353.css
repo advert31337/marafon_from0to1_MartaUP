@@ -84,54 +84,17 @@ a {
 }
 .header-slider__item-info {
     max-width: 506px;
-    color:#fff;
 }
 .header-slider__title {
     font-weight: 700;
     font-size: 45px;
     line-height: 60px;
+    color:#fff;
     margin-bottom: 10px;
 }
 .header-slider__description {
-    line-height: 55px;
-    font-size: 24px;
-    margin-bottom: 60px;
 }
 .header-slider__btn {
-    font-weight: 600;
-    text-transform: uppercase;
-    color: #250F8A;
-    padding: 13px 39px;
-    background-color: #FFCA00;
-    border-radius: 25px;
 }
 .header-slider__item-images {
-    margin: 10px 82px 0 0;
-}
-
-.header-dots{
-    list-style: none;
-    position: absolute;
-    right: 0;
-    top: 50%;
-}
-
-.header-dots button {
-    border: none;
-    background-color: #fff;
-    opacity: 0.5;
-    font-size: 0;
-    padding: 0;
-    width: 7px;
-    height: 7px;
-    border-radius: 3.5px;
-    cursor: pointer;
-    outline: none;
-    margin: 10px auto;
-    display: block;
-}
-
-.header-dots .slick-active button{
-    width: 15px;
-    opacity: 1;
 }
