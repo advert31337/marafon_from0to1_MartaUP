@@ -141,41 +141,21 @@ a {
     background-image: url(../images/special-bg.svg);
     background-position: left bottom;
     background-repeat: no-repeat;
-    color: #202020;
-    text-align: center;
+
 }
 
 .specialised__title {
-    margin-bottom: 96px;
 }
 .title {
-    font-size: 35px;
-    line-height: 45px;
-    font-weight: 700;
-    text-align: center;
 }
 
 .specialised__items {
-    display: flex;
-    justify-content: space-between;
-    max-width: 980px;
-    margin: 0 auto;
-
 }
 .specialised__item {
-    width: 280px;
 }
 .specialised__item-img {
-    margin-bottom: 23px;
-    min-height: 159px;
 }
 .specialise__item-title {
-    margin-bottom: 11px;
-    font-size: 20px;
-    font-weight: 700;
 }
 .specialise__item-text {
-   padding: 0 10px;
-   color: #272727;
-   opacity: 0.7;
 }
